@@ -1,2 +1,37 @@
 /* HEADER */
 /* ***** */
+
+/*smartphone*/
+header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 40vh;
+    justify-content: space-between;
+}
+/*ponemos los bordes redondos del smartphone*/
+.banner{
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    width: 100%;
+}
+
+.logo{
+    display: inline;
+
+}
+
+/*desktop*/
+/*quitamos los redondeos del banner en desktop*/
+@media only screen and (min-width: 1000px) {
+
+    .banner{
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    }
+    .logo{
+        position: absolute;
+        top: 20px;
+        left: 20px;
+
+    }

@@ -1,2 +1,45 @@
 /* LAYOUT */
 /* ***** */
+
+/*HEADER*/
+.logo {
+}
+
+/*FOOTER*/
+/*redes*/
+
+.redes {
+    flex-grow: 1;
+}
+.redes__titulo {
+    font-weight: bold;
+    font: size 20px;
+}
+.redes__twitter {
+}
+.redes__picture {
+}
+.redes__Linkedin {
+}
+
+
+/*menu*/
+
+.menu {
+}
+.menu__titulo {
+    font-weight: bold;
+    font: size 20px;
+}
+.redes__servicios {
+}
+.redes__proyectos {
+}
+.redes__contactar {
+}
+/*parrafo*/
+.texto {
+}
+/*copyright*/
+.copyright {
+}

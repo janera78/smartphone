@@ -1,7 +1,22 @@
 /* TIPOGRAFÍA */
 /* ********* */
 
+
 /* Variables */
 :root{
+    
+}
+
+@font-face {
+    font-family: "roboto";
+    src: url("../font/roboto-regular.woff2") format("woff2"),
+         url("../font/roboto-regular.woff") format("woff"),;
+}
+
+html{
+
+    font-family: "roboto", sans-serif;
+    font-size: 16px;
+    
     
 }
