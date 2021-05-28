@@ -1,46 +1,14 @@
 /* LAYOUT */
 /* ***** */
 
-/*HEADER*/
-.logo {
-}
-
-/*FOOTER*/
-/*redes*/
-
-.redes {
-    flex-grow: 1;
-}
-.redes__titulo {
-    font-weight: bold;
-    font: size 20px;
+body{
     
-}
-.redes__twitter {
-}
-.redes__picture {
-}
-.redes__Linkedin {
+    justify-content: center;
 }
 
 
-/*menu*/
 
-.menu {
+main{
+    height: 200px;
 }
-.menu__titulo {
-    font-weight: bold;
-    font: size 20px;
-}
-.redes__servicios {
-}
-.redes__proyectos {
-}
-.redes__contactar {
-}
-/*parrafo*/
-.texto {
-}
-/*copyright*/
-.copyright {
-}
+
