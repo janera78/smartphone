@@ -7,6 +7,7 @@ footer {
     padding: 40px 20px;
     display: flex;
     flex-direction: column;
+    
 }
 /*Links redes*/
 .linksFooter{
@@ -21,6 +22,7 @@ li{
     line-height: 40px;
 }
 .linksFooter__redes__titulo{
+    font-size: 24px;
 }
 .linksFooter__redes__1,
 .linksFooter__redes__2,
@@ -31,7 +33,7 @@ li{
  .linksFooter__menu{
 }
  .linksFooter__menu__titulo{
-
+    font-size: 24px;
  }
  .linksFooter__menu__1,
  .linksFooter__menu__2,
