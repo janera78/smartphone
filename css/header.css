@@ -6,18 +6,15 @@ header{
     display: flex;
     flex-direction: column;
     align-items: center;
-    height: 40vh;
-    justify-content: space-between;
 }
 /*ponemos los bordes redondos del smartphone*/
 .banner{
     border-bottom-left-radius: 100px;
     border-bottom-right-radius: 100px;
-    width: 100%;
+    width: 100vw;
 }
 
 .logo{
-    display: inline;
 
 }
 
